@@ -44,6 +44,7 @@ class CounterProviderWrapperState extends State<CounterProviderWrapper> {
   }
 }
 
+// ignore: must_be_immutable
 class CounterProvider extends InheritedWidget {
   CounterProvider(
       {Key? key,

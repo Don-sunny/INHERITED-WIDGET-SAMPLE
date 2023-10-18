@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:inherited_widget/providers/counter_provider.dart';
+import 'package:inherited_widget/sample-1/providers/counter_provider.dart';
 
 class DisplayCounterWidget extends StatelessWidget {
   const DisplayCounterWidget({super.key});
